@@ -1,5 +1,6 @@
 import './App.css';
-import Pokedex from "./Pokedex";
+//import Pokedex from "./Pokedex";
+import Pokegame from "./Pokegame"
 /**
  * 
  * renders single Pokedex component 
@@ -8,7 +9,7 @@ import Pokedex from "./Pokedex";
 function App() {
 
   return (<div>
-    <Pokedex/>
+    <Pokegame/>
   </div>);
 }
 
